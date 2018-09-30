@@ -1,0 +1,124 @@
+body {
+	margin: 0;
+	font-family: arial;
+}
+
+/*CAJA 1 */
+.hero {
+	background-image: url(images/bg.jpeg);
+	color: white;
+	height: 400px;
+}
+
+.logo {
+	width: 200px;
+	float: left;
+}
+
+.containerhero {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.hero h1, p {
+	text-align: center;
+}
+
+.upmenu {
+	list-style-type: none;
+	/* float: right; */
+	margin-top: 0;
+	padding: 10px;
+	text-align: right;
+}
+
+.upmenu li {
+	display: inline-block;
+	font-size: 20px;
+	padding: 10px 20px 50px;
+}
+
+.botgreen {
+	background-color: green;
+	color: white;
+	padding: 10px;
+	margin: 0 0 0 10px;
+	border: 2px;
+	border-radius: 10px
+}
+
+.botblue {
+	background-color: blue;
+	color: white;
+	padding: 10px;
+	margin: 0 10px 0 398px;
+	border: 2px;
+	border-radius: 10px
+}
+
+/*CAJA 2*/
+.containerwhite {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.fotogente {
+	width: 600px;
+	height: 600px;
+	}
+
+h3 {
+	text-align: center;
+	margin: 60px auto 0;
+}
+
+/*CAJA 3*/
+.boxinfo {
+	background-color: silver;
+	padding: 40px;
+}
+
+.boxinfo p {
+	padding-bottom: 10px;
+}
+
+.botblueII {
+	margin: 30px 665px;
+	background-color: blue;
+	color: white;
+	padding: 10px;
+	border: 2px;
+	border-radius: 10px
+}
+
+/*CAJA 4 */
+.containerend {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.contacto p {
+	text-align: left;
+	margin: 0;
+}
+
+.suscrib {
+	float: right;
+	display: inline-block;
+}
+
+.suscrib p {
+	margin: 0;
+}
+
+/* INTENTO FALIDO
+.suscrib h5 {
+	margin: 5px;
+	background-color: white;
+	border-color: grey;
+	border-style: solid;
+	color: grey;
+	padding: 10px;
+	border: 2px;
+	border-radius: 10px
+} */
